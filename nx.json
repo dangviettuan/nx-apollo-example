@@ -17,6 +17,9 @@
     "nx-apollo-e2e": {
       "tags": [],
       "implicitDependencies": ["nx-apollo"]
+    },
+    "api": {
+      "tags": []
     }
   }
 }
